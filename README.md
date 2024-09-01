@@ -30,6 +30,8 @@ Our mesh refinement software is based on the Delaunay criterion, Lawson's algori
 ## [Texture Generator and Classifier](https://github.com/Mathis-Spataro/Texture-Classifier)
 This project is based on image masking techniques and a K-means algorithm. It showcases my skills in image processing, machine learning, and algorithm implementation in collaboration with others.
 
+[Implicit surfaces report](https://github.com/Mathis-Spataro/documents/blob/main/Implicit%20surfaces.pdf)
+
 # Contact me
 Feel free to reach out to ask for my CV if you don't have it yet or appoint an interview.
 
